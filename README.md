@@ -21,8 +21,15 @@ In Order to execute the scripts please follow the below steps:
 Repository contatins:
 1. Manaul Test cases
 2. Automation Scripts for below test cases:
-   Create_Computer_Valid_01
-   Read_Computer_Valid_02
-   Update_Computer_Valid_03
+   Create_Computer_Valid_01,
+   Read_Computer_Valid_02,
+   Update_Computer_Valid_03,
    Delete_Computer_Valid_04
 3. Executed Results (TestNG HTML format) and Execution Screenshots
+
+
+NOTE: 
+1. Reference of the manual test cases and Automation scripts is mentioned in Project only for one TestCase (Create_Computer_Valid_01) 
+com.testcase => AddComputerTestCases.java (Screenshot for the same has been attached)
+
+2. Step level pre-requisite is only defined for first test cases (Create_Computer_Valid_01)
