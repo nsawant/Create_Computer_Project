@@ -10,7 +10,7 @@ CRUD operations are automated using Selenium WebDriver and TestNG framework
 POM (Page Object Model) is the approach followed to desing the test cases
 
 In Order to execute the scripts please follow the below steps:
-(TO run the project Eclipse in mandatory - along with eclipse TestNG and Selenium libraries should be imported in project also relevant verion of chromedirever and geckodriver should be downloaded (64 or 32 bit as per computer configuration)
+(To run the project Eclipse is mandatory - along with eclipse TestNG the Selenium libraries should be imported in project also relevant verion of chromedirever and geckodriver should be downloaded (64 or 32 bit as per computer configuration)
 1. Import the attached project in Eclipse.
 2. Open the Project and go the the path com.utils(package) => BaseClass.java
 3. Open the BaseClass.java file and change the value of pathtoChromedirver and pathtoFirefoxdirver with path of chrome driver and gecko driver file location
@@ -25,4 +25,4 @@ Repository contatins:
    Read_Computer_Valid_02
    Update_Computer_Valid_03
    Delete_Computer_Valid_04
-3. Executed Results (TestNG HTML format) 
+3. Executed Results (TestNG HTML format) and Execution Screenshots
