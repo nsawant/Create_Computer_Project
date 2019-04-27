@@ -28,7 +28,7 @@ Repository contatins:
 3. Executed Results (TestNG HTML format) and Execution Screenshots
 
 
-NOTE: 
+NOTE:
 1. Reference of the manual test cases and Automation scripts is mentioned in Project only for one TestCase (Create_Computer_Valid_01) 
 com.testcase => AddComputerTestCases.java (Screenshot for the same has been attached)
 
